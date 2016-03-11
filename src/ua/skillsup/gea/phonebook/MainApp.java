@@ -1,4 +1,5 @@
-package ua.skillsup.gea.phonebook;/**
+package ua.skillsup.gea.phonebook;
+/**
  * Created by yevge_000 on 08.12.2015.
  */
 
@@ -78,7 +79,7 @@ public class MainApp extends Application {
     @Override
     public void start(Stage primaryStage) {
         this.primaryStage = primaryStage;
-        this.primaryStage.setTitle("Телефонна книга");
+        this.primaryStage.setTitle("Телефонна книга repo");
 
         // Set the application icon.
         this.primaryStage.getIcons().add(new Image("file:resources/images/iconPhoneBook.png"));
@@ -261,12 +262,12 @@ public class MainApp extends Application {
             prefs.put("filePath", file.getPath());
 
             // Update the stage title.
-            primaryStage.setTitle("AddressApp - " + file.getName());
+            primaryStage.setTitle("Телефонна книга - " + file.getName());
         } else {
             prefs.remove("filePath");
 
             // Update the stage title.
-            primaryStage.setTitle("AddressApp");
+            primaryStage.setTitle("Телефонна книга");
         }
     }
 
