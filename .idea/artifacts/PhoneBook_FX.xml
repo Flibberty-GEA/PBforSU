@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="PhoneBook FX">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhoneBook_FX</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="ua.skillsup.gea.phonebook.MainApp" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="paramFile" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="PhoneBook_FX.jar">
+        <element id="module-output" name="PhoneBook FX" />
+      </element>
+    </root>
+  </artifact>
+</component>

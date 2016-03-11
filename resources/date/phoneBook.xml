@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Anna</firstName>
+        <lastName>Best</lastName>
+        <phoneNumber>+380679311323</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Lydia</firstName>
+        <lastName>Kunz</lastName>
+        <phoneNumber>+380679311323</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Heinz</firstName>
+        <lastName>Kurz</lastName>
+        <phoneNumber>+380679311323</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Cornelia</firstName>
+        <lastName>Meier</lastName>
+        <phoneNumber>+380679311323</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Werner</firstName>
+        <lastName>Meyer</lastName>
+        <phoneNumber>+380679311323</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Ruth</firstName>
+        <lastName>Mueller</lastName>
+        <phoneNumber>+380679311323</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Надія</firstName>
+        <lastName>Бартошик</lastName>
+        <phoneNumber>+380957619937</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>Україна, Дніпропетровська обл., м. Дніпропетровськ, пр. Миру, буд. 89, кв. 20</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Євген</firstName>
+        <lastName>Голюк</lastName>
+        <phoneNumber>+380679311323</phoneNumber>
+        <phoneType>мобільний</phoneType>
+        <eMail>yevgeniy.golyuk@gmail.com</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Александрович</firstName>
+        <lastName>Мамасимидишвили</lastName>
+        <phoneNumber>+380</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Имя3</firstName>
+        <lastName>Фамили3</lastName>
+        <phoneNumber>234324</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Имя4</firstName>
+        <lastName>Фамили4</lastName>
+        <phoneNumber>5454</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Имя</firstName>
+        <lastName>Фамилия</lastName>
+        <phoneNumber>+380</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Имя5</firstName>
+        <lastName>Фамили5</lastName>
+        <phoneNumber>354656</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Имя6</firstName>
+        <lastName>Фамили6</lastName>
+        <phoneNumber>654656</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Имя7</firstName>
+        <lastName>Фамили7</lastName>
+        <phoneNumber>45465768</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+    <person>
+        <address>some address</address>
+        <birthday>1987-10-08</birthday>
+        <firstName>Имя8</firstName>
+        <lastName>Имя9</lastName>
+        <phoneNumber>8768768768</phoneNumber>
+        <phoneType>some phone number type</phoneType>
+        <eMail>some eMail</eMail>
+    </person>
+</persons>

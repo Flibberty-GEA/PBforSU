@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.input.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="425.0" prefWidth="750.0" styleClass="background" stylesheets="@stl.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ua.skillsup.gea.phonebook.view.RootLayoutController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="Файл">
+            <items>
+                  <MenuItem mnemonicParsing="false" onAction="#handleNew" text="Новий" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleOpen" text="Відкрити" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSave" text="Зберігти">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="S" control="ANY" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                  </MenuItem>
+                  <MenuItem mnemonicParsing="false" onAction="#handleSaveAs" text="Зберігти як..." />
+              <MenuItem mnemonicParsing="false" onAction="#handleExit" text="Вихід" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Пошук">
+            <items>
+              <MenuItem mnemonicParsing="false" text="За прізвищем або ім'ям" />
+                  <MenuItem mnemonicParsing="false" text="За частиною імені" />
+                  <MenuItem mnemonicParsing="false" text="За номером телефону" />
+                  <MenuItem mnemonicParsing="false" text="За віком" />
+                  <MenuItem mnemonicParsing="false" text="За віковим діапазоном" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Довідка">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#handleAbout" text="Про програму" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+</BorderPane>
